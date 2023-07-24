@@ -2,4 +2,4 @@
 
 
 
-![Website Screenshot](Images/Website ss.png)
+![Website Screenshot](Images/Website_screenshot.png)
